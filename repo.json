@@ -1,0 +1,8 @@
+{
+  "name": "DxRepoCS",
+  "description": "This repo is developed by Dx",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/devfahim00/DxRepoCS/refs/heads/build/plugins.json"
+  ]
+}
