@@ -1,0 +1,102 @@
+[
+    {
+        "iconUrl": "https://www.desitales2.com/wp-content/uploads/2017/06/Desi_Tales_logo.png",
+        "fileHash": "sha256-68c68a2e4f6a37e3b6131f7aae1899e7584a61b041b5d446b8fd63c23f529e82",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/devfahim00/csdev",
+        "fileSize": 18164,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "devfahim00"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "Desitales",
+        "description": "Join our telegram channel @projectredfox",
+        "url": "https://raw.githubusercontent.com/devfahim00/csdev/builds/Desitales.cs3",
+        "name": "Desitales"
+    },
+    {
+        "iconUrl": "https://www.fpo.xxx/images/logo2.png",
+        "fileHash": "sha256-05bebe2d3546089b47ef0b56f25d06e26fd89e9b621d7165d2d104b6e19d0977",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/devfahim00/csdev",
+        "fileSize": 19827,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "devfahim00"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "FpoXxx",
+        "description": "Join our telegram channel @projectredfox",
+        "url": "https://raw.githubusercontent.com/devfahim00/csdev/builds/FpoXxx.cs3",
+        "name": "FpoXxx"
+    },
+    {
+        "iconUrl": "https://new5.hdhub4u.cl/wp-content/uploads/2021/05/hdhub4ulogo.png",
+        "fileHash": "sha256-7f6fddddba8c39c22d1d75b18b3856b0aa9fbf866b6a3725e143cadd99dcc847",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/devfahim00/csdev",
+        "fileSize": 29040,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "devfahim00"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "HdHub",
+        "description": "Join our telegram @projectredfox",
+        "url": "https://raw.githubusercontent.com/devfahim00/csdev/builds/HdHub.cs3",
+        "name": "HdHub"
+    },
+    {
+        "iconUrl": "https://cachew.livemediahost.com/assets/img/camsoda-logo-160x50.png",
+        "fileHash": "sha256-7a40c37d99c6d8a9021da7f11fa6a7b84049a25c04a9ac9cc6e52dfcd8fd035e",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/devfahim00/csdev",
+        "fileSize": 21648,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "devfahim00"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "Kamababa",
+        "description": "Join our telegram channel @projectredfox",
+        "url": "https://raw.githubusercontent.com/devfahim00/csdev/builds/Kamababa.cs3",
+        "name": "Kamababa"
+    },
+    {
+        "iconUrl": "https://videoxxx.sex/images/logo.webp",
+        "fileHash": "sha256-04d68916b21b50a93a7d11e5af0583c0e055dfb79dfe8a3a95fa6ca1288243df",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/devfahim00/csdev",
+        "fileSize": 19135,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "devfahim00"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "VideoXxx",
+        "description": "Join our telegram channel @projectredfox",
+        "url": "https://raw.githubusercontent.com/devfahim00/csdev/builds/VideoXxx.cs3",
+        "name": "VideoXxx"
+    }
+]
