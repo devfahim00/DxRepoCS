@@ -81,10 +81,10 @@
     },
     {
         "iconUrl": "https://tv.moviemasti.net/app/favicon.png",
-        "fileHash": "sha256-60669e85678a2c01766470b6c2ebe969a6cb46460680110c7d02a887ac49197d",
+        "fileHash": "sha256-50309ed780656e8f07714f296fa5427f9b24fc6a7d079aab280b4e423496841d",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/devfahim00/DxRepoCS",
-        "fileSize": 13653,
+        "fileSize": 13659,
         "status": 1,
         "language": "en",
         "authors": [
