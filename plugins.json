@@ -1,5 +1,25 @@
 [
     {
+        "iconUrl": "https://ctghall.com/logo.png",
+        "fileHash": "sha256-b9bc757c86e559e84650c7695d1a3fcffe635cbc5429703923a0b59dbcbd372b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/devfahim00/DxRepoCS",
+        "fileSize": 21143,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "devfahim00"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "Ctghall",
+        "description": "Join our telegram channel @projectredfox",
+        "url": "https://raw.githubusercontent.com/devfahim00/DxRepoCS/build/Ctghall.cs3",
+        "name": "Ctghall"
+    },
+    {
         "iconUrl": "https://www.desitales2.com/wp-content/uploads/2017/06/Desi_Tales_logo.png",
         "fileHash": "sha256-bfeb9f7c050fb2861499a2a0200c41750f865f6ec2a44b857640e765c0058e77",
         "apiVersion": 1,
