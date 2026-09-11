@@ -80,6 +80,26 @@
         "name": "Kamababa"
     },
     {
+        "iconUrl": "https://tv.moviemasti.net/app/favicon.png",
+        "fileHash": "sha256-60669e85678a2c01766470b6c2ebe969a6cb46460680110c7d02a887ac49197d",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/devfahim00/DxRepoCS",
+        "fileSize": 13653,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "devfahim00"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 2,
+        "internalName": "LiveTV",
+        "description": "Join our telegram channel @projectredfox",
+        "url": "https://raw.githubusercontent.com/devfahim00/DxRepoCS/build/LiveTV.cs3",
+        "name": "LiveTV"
+    },
+    {
         "iconUrl": "https://videoxxx.sex/images/logo.webp",
         "fileHash": "sha256-52669a443f902980818d8ab7c64a6eb3b8cc184736cc6c215ac40ed6d5ec6d13",
         "apiVersion": 1,
