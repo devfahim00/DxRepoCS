@@ -120,6 +120,26 @@
         "name": "LiveTV"
     },
     {
+        "iconUrl": "https://ctghall.com/logo.png",
+        "fileHash": "sha256-da8916d99b96c4b0470344aa990d1164b1b89fa76d2613c287fcf5896619c05c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/devfahim00/DxRepoCS",
+        "fileSize": 36027,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "devfahim00"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "Movy",
+        "description": "Join our telegram channel @projectredfox",
+        "url": "https://raw.githubusercontent.com/devfahim00/DxRepoCS/build/Movy.cs3",
+        "name": "Movy"
+    },
+    {
         "iconUrl": "https://videoxxx.sex/images/logo.webp",
         "fileHash": "sha256-52669a443f902980818d8ab7c64a6eb3b8cc184736cc6c215ac40ed6d5ec6d13",
         "apiVersion": 1,
