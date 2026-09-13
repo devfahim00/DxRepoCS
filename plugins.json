@@ -121,10 +121,10 @@
     },
     {
         "iconUrl": "https://ctghall.com/logo.png",
-        "fileHash": "sha256-da8916d99b96c4b0470344aa990d1164b1b89fa76d2613c287fcf5896619c05c",
+        "fileHash": "sha256-f5d2657bb393629914f51f337ac469f604f97d5c2b5009a03943009220c1fcd4",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/devfahim00/DxRepoCS",
-        "fileSize": 36027,
+        "fileSize": 17467,
         "status": 1,
         "language": "en",
         "authors": [
@@ -134,10 +134,10 @@
             "Movie"
         ],
         "version": 2,
-        "internalName": "Movy",
+        "internalName": "Pornhub",
         "description": "Join our telegram channel @projectredfox",
-        "url": "https://raw.githubusercontent.com/devfahim00/DxRepoCS/build/Movy.cs3",
-        "name": "Movy"
+        "url": "https://raw.githubusercontent.com/devfahim00/DxRepoCS/build/Pornhub.cs3",
+        "name": "Pornhub"
     },
     {
         "iconUrl": "https://videoxxx.sex/images/logo.webp",
@@ -158,25 +158,5 @@
         "description": "Join our telegram channel @projectredfox",
         "url": "https://raw.githubusercontent.com/devfahim00/DxRepoCS/build/VideoXxx.cs3",
         "name": "VideoXxx"
-    },
-    {
-        "iconUrl": "https://ctghall.com/logo.png",
-        "fileHash": "sha256-dbadca7e00c1a1f06952e8cdb2d326768cf5b57c678ae85e9f6ff63942b230fd",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/devfahim00/DxRepoCS",
-        "fileSize": 15762,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "devfahim00"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "Yt",
-        "description": "Join our telegram channel @projectredfox",
-        "url": "https://raw.githubusercontent.com/devfahim00/DxRepoCS/build/Yt.cs3",
-        "name": "Yt"
     }
 ]
