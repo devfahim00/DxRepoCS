@@ -121,10 +121,10 @@
     },
     {
         "iconUrl": "https://ctghall.com/logo.png",
-        "fileHash": "sha256-3126331bcd8e858c8e3ed93cd75dbd69e5c65233a98e01c2e7200abba97500e1",
+        "fileHash": "sha256-9b650caad1467fe408ceb9d41650f3d80ee2a8840b50b4d585d5a85bbabbd5ac",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/devfahim00/DxRepoCS",
-        "fileSize": 17457,
+        "fileSize": 15451,
         "status": 1,
         "language": "en",
         "authors": [
